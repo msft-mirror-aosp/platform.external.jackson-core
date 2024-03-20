@@ -1,2 +1,6 @@
 # Bug component: 847766
 include platform/packages/modules/GeoTZ:/OWNERS
+# Bug component: 315013
+include platform/tools/apksig:/OWNERS
+
+include platform/system/core:main:/janitors/OWNERS
